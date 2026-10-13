@@ -1,0 +1,8 @@
+image,ball_centre,error_x_pixels,error_y_pixels,simulated_pan_degrees,simulated_tilt_degrees,processing_time_ms
+ball_bottom.jpg,"(320, 400)",0,160,90.00,91.60,2.388
+ball_bottom_right.jpg,"(540, 400)",220,160,87.80,93.20,1.014
+ball_centre.jpg,"(320, 240)",0,0,87.80,93.20,0.887
+ball_left.jpg,"(100, 240)",-220,0,90.00,93.20,1.072
+ball_right.jpg,"(540, 240)",220,0,87.80,93.20,0.827
+ball_top.jpg,"(320, 80)",0,-160,87.80,91.60,1.013
+ball_top_left.jpg,"(100, 80)",-220,-160,90.00,90.00,0.812
